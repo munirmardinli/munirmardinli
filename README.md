@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm a tech enthusiast passionate about Homelab setups, automation, and small SaaS projects. I work on these purely as a hobby – learning, tinkering, and sharing along the way.<br><br>👨‍💻 This is my playground – everything you see here is the result of curiosity, experimentation, and continuous learning.  <br>📦 I document my setups and solutions to make them reproducible for myself and helpful for others.  <br>🛠️ From Docker and Ansible to self-hosted tools and web apps – you'll find a bit of everything.<br><br>Feel free to explore – maybe you'll find something useful or inspiring!<br>
+Hi there! I'm a tech enthusiast passionate about Homelab setups, automation, and small SaaS projects. I work on these purely as a hobby – learning, tinkering, and sharing along the way.<br><br>👨‍💻 This is my playground - everything you see here is the result of curiosity, experimentation, and continuous learning.  <br>📦 I document my setups and solutions to make them reproducible for myself and helpful for others.  <br>🛠️ From Docker and Ansible to self-hosted tools and web apps - you'll find a bit of everything.<br><br>Feel free to explore - maybe you'll find something useful or inspiring!<br>
 
 
 # 💻 Tech Stack:
